@@ -27,3 +27,6 @@ Este projeto é um **clone visual inspirado no universo de Yu-Gi-Oh!**, criado c
 - Criar um projeto divertido e visualmente atrativo
 
 ---
+##🌐 Acesse o Projeto
+
+🔗 click aqui: https://joaopedros-s.github.io/Projeto-DBZ/
